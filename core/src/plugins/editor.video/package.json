@@ -18,8 +18,8 @@
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-watch": "^1.0.0",
     "lodash": "*",
-    "react": "15.4.2",
-    "react-dom": "15.4.2",
+    "react": "15.7.0",
+    "react-dom": "15.7.0",
     "video.js": "^5.20.5"
   }
 }
